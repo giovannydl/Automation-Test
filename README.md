@@ -30,9 +30,9 @@ Install project dependencies with: `npm i`
 ## 💻 Run the demo: 
 1. Open the terminal and run: `npm run cypress:runner`.
 2. The Cypress test runner will be opened and show the list of test cases.
-3. The test cases are divided in two folders, the first for the test scenarios exercises and the second for the regression test suite. 
-3. To run an specific case, click over the test case you want to execute.
-4. The execution will start.
+3. The test cases are divided in two folders, the first folder is for the [test scenarios exercises](/cypress/e2e/features/common tests/) and the second one for the [regression test suite](/cypress/e2e/features/regression tests/). 
+4. To run an specific case, click over the test case you want to execute.
+5. The execution will start.
 
 
 ## 💻 Regression Test Plan: 
